@@ -1,0 +1,64 @@
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe.config
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.AssemblyReference.cache
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\obj\Debug\Organizer.WindowAddNote.resources
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\Академия 32БИТА\source\repos\Organizer\Organizer\obj\Debug\Organizer.pdb
+E:\Organizer\Organizer\bin\Debug\Organizer.exe.config
+E:\Organizer\Organizer\bin\Debug\Organizer.exe
+E:\Organizer\Organizer\bin\Debug\Organizer.pdb
+E:\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+E:\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+E:\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+E:\Organizer\Organizer\obj\Debug\Organizer.WindowAddNote.resources
+E:\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+E:\Organizer\Organizer\obj\Debug\Organizer.exe
+E:\Organizer\Organizer\obj\Debug\Organizer.pdb
+D:\Organizer\Organizer\bin\Debug\Organizer.exe.config
+D:\Organizer\Organizer\bin\Debug\Organizer.exe
+D:\Organizer\Organizer\bin\Debug\Organizer.pdb
+D:\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+D:\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+D:\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+D:\Organizer\Organizer\obj\Debug\Organizer.WindowAddNote.resources
+D:\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+D:\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+D:\Organizer\Organizer\obj\Debug\Organizer.exe
+D:\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe.config
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.AssemblyReference.cache
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.WindowAddNote.resources
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Buffers.dll
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Memory.dll
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Text.Json.dll
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.ValueTuple.dll
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Buffers.xml
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Memory.xml
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Text.Json.xml
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ivaga\source\repos\Organizer\Organizer\bin\Debug\System.ValueTuple.xml
+C:\Users\ivaga\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.CopyComplete
