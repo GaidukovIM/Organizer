@@ -78,16 +78,6 @@
             this.monthCalendar1.TabIndex = 3;
             this.monthCalendar1.DateChanged += new System.Windows.Forms.DateRangeEventHandler(this.monthCalendar1_DateChanged);
             // 
-            // buttonSave
-            // 
-            this.buttonSave.Location = new System.Drawing.Point(1054, 123);
-            this.buttonSave.Name = "buttonSave";
-            this.buttonSave.Size = new System.Drawing.Size(75, 38);
-            this.buttonSave.TabIndex = 4;
-            this.buttonSave.Text = "Save";
-            this.buttonSave.UseVisualStyleBackColor = true;
-            this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
-            // 
             // buttonDelete
             // 
             this.buttonDelete.Location = new System.Drawing.Point(717, 333);

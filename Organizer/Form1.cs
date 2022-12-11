@@ -148,12 +148,6 @@ namespace Organizer
         {
             this.SaveNotesToFile();
         }
-
-        private void buttonSave_Click(object sender, EventArgs e)
-        {
-            this.SaveNotesToFile();
-        }
-
         private void buttonDelete_Click(object sender, EventArgs e)
         {
             if (listBoxNotes.SelectedIndex == -1) return;
