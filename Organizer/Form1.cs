@@ -30,34 +30,31 @@ namespace Organizer
            //notes.Add(currentDate,new List<Note>());
             monthCalendar1.DateChanged += monthCalendar1_DateChanged;
             this.GetNotesFromFile();
-            Thread t = new Thread(new ThreadStart(helper));
+            Thread t = new Thread(new ParameterizedThreadStart(ThreadCheckingTime));
             t.IsBackground = true;
-            t.Start();
+            t.Start(notes);
         }
-        private void helper()
+        private void ThreadCheckingTime(object obj)
         {
-            while(true)
+            while (true)
             {
-                checkTime = new Thread(new ThreadStart(checkCurTime));
-                checkTime.IsBackground = true;
-                checkTime.Start();
+                checkCurTime((Hashtable)notes);
                 Thread.Sleep(1000);
             }
         }
-        private void checkCurTime()
+        private void checkCurTime(Hashtable notes)
         {
-                DateTime now = DateTime.Now;
-                foreach (var l in notes.Values)
-                {
-                    foreach (var n in (List<Note>)l)
-                        if (!Done.Contains(((Note)n).time) && ((Note)n).time.DayOfYear == now.DayOfYear && ((Note)n).time <= now)
-                        {
-                            Done.Add(((Note)n).time);
-                            Console.Beep();
-                            MessageBox.Show(((Note)n).ToString());
-                            var i = 3;
-                        }
-                }
+            DateTime now = DateTime.Now;
+            foreach (var l in notes.Values)
+            {
+                foreach (var n in (List<Note>)l)
+                    if (!Done.Contains(((Note)n).time) && ((Note)n).time.DayOfYear == now.DayOfYear && ((Note)n).time <= now)
+                    {
+                        Done.Add(((Note)n).time);
+                        Console.Beep();
+                        MessageBox.Show(((Note)n).ToString());
+                    }
+            }
         }
         private void buttonAddNote_Click(object sender, EventArgs e)
         {
