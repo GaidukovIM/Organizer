@@ -47,13 +47,12 @@ namespace Organizer
             DateTime now = DateTime.Now;
             foreach (var l in notes.Values)
             {
-                foreach (var n in (List<Note>)l)
-                    if (!Done.Contains(((Note)n).time) && ((Note)n).time.DayOfYear == now.DayOfYear && ((Note)n).time <= now)
-                    {
-                        Done.Add(((Note)n).time);
-                        Console.Beep();
-                        MessageBox.Show(((Note)n).ToString());
-                    }
+                foreach (var n in ((List<Note>)l).Where(n => !Done.Contains(((Note)n).time) && ((Note)n).time.DayOfYear == now.DayOfYear && ((Note)n).time <= now))
+                {
+                    Done.Add(((Note)n).time);
+                    Console.Beep();
+                    MessageBox.Show(((Note)n).ToString());
+                }
             }
         }
         private void buttonAddNote_Click(object sender, EventArgs e)
